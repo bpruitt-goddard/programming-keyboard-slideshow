@@ -2,6 +2,7 @@
 Using the power of Open Source firmware to take control of your tools
 
 note: Testing speaker notes window.
+
 --
 
 ## Demo 2
