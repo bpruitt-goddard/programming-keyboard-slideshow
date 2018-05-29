@@ -7,9 +7,10 @@ Using the power of Open Source firmware to take control of your tools
 
 Most people use the same general keyboard
 
-![StandardKeyboard](images/104layoutkeyboard.jpg)
+![StandardKeyboard](/images/104_layout_keyboard.png)
+*[ANSI Keyboard Layout Diagram with Form Factor](https://commons.wikimedia.org/wiki/File:ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg) by Rumudiez is licensed under [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license*
 
-* Standard 104 key
+* Standard 104 keys
 * Standard layout
 * "Good enough" for most people
 
@@ -22,12 +23,13 @@ note:
 
 ## Baby Steps
 
-Some keyboard manufacturers provide you with a few handy "macro" keys
+"Macro Keys"
 
 * 5 - 10 keys that you can customize
 * But they are usually on the side/hard to reach for general use
 
-![MacroKeyboard](images/macrokeyboard.jpg)
+![MacroKeyboard](/images/macrokeyboard.png)
+*[K95 RGB PLATINUM Mechanical Gaming Keyboard](https://www.corsair.com/eu/en/Color/Keyboard-Model/Key-Switches/Keyboard-Layout/k95-rgb-platinum-config-na/p/CH-9127114-NA) by Corsair*
 
 note:
 * You may have seen these - some "gamer" keyboards have them
@@ -43,7 +45,7 @@ GUI or finer control
 * More useful as you can control more/all of the keys
 * Basic tweaks to make things useful
 
-![GUIControl](images/guikeycontrol.jpg)
+[Interactive Example](http://configure.ergodox-ez.com/)
 
 note:
 * Mostly let you move keys around. No further customization
@@ -54,7 +56,8 @@ note:
 
 ## Red Pill And Blue Pill Decision
 
-![RedPillBluePill](images/redpillbluepill.jpg)
+![RedPillBluePill](/images/red_pill_blue_pill.jpg)
+*[Red and blue pill](https://commons.m.wikimedia.org/wiki/File:Red_and_blue_pill.jpg) by W.carter is licensed under [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license*
 
 * <span style="color:blue">Blue Pill</span> - Be satisfied with only knowing everything till this point
 * <span style="color:red">Red Pill</span> - Never be satisfied with the above
@@ -69,7 +72,7 @@ note:
 
 ## What Does Full Control Look Like?
 
-* Work across OSes
+* Work across Operating Systems
 * Fully change any keys
 * Share or save your layout
 * Additional nice-to-haves
@@ -84,15 +87,20 @@ note:
 * Can be tweaked and changed to suit your needs
 * Works across many types of keyboards
 
+note:
+* QMK - Quantum Mechanical Keyboard
+    * Fork of TMK, have since diverged with features
+* TMK - Couldn't find what it stands for
 ---
 
 ## What Does Keyboard Firmware Look Like?
 
-![QMKLogo](images/qmklogo.jpg)
+![QMKLogo](/images/qmklogo.png)
+*Logo owned by [QMK Firmware](https://qmk.fm/)*
 
-Full control of your keyboard via a `keymap.c` file
-Complied into a hex file
-Flashed to keyboard
+1. Full control of your keyboard via a [keymap.c](https://github.com/bpruitt-goddard/qmk_firmware/blob/new-keymap/keyboards/ergodox_ez/keymaps/bpruitt-goddard/keymap.c) file
+2. Complied into a hex file
+3. Flashed to keyboard
 
 note:
 * From here on, QMK-specific details
@@ -138,7 +146,6 @@ note:
 Super Shift Key
 * Hold -> Normal Shift
 * Press -> `(` or `)` (Left vs Right shift)
-* Test `var a = 7;`
 
 --
 
