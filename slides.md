@@ -7,7 +7,7 @@ Using the power of Open Source firmware to take control of your tools
 
 Most people use the same general keyboard
 
-![StandardKeyboard](/images/104_layout_keyboard.png)
+![StandardKeyboard](images/104_layout_keyboard.png)
 *[ANSI Keyboard Layout Diagram with Form Factor](https://commons.wikimedia.org/wiki/File:ANSI_Keyboard_Layout_Diagram_with_Form_Factor.svg) by Rumudiez is licensed under [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license*
 
 * Standard 104 keys
@@ -28,7 +28,7 @@ note:
 * 5 - 10 keys that you can customize
 * But they are usually on the side/hard to reach for general use
 
-![MacroKeyboard](/images/macrokeyboard.png)
+![MacroKeyboard](images/macrokeyboard.png)
 *[K95 RGB PLATINUM Mechanical Gaming Keyboard](https://www.corsair.com/eu/en/Color/Keyboard-Model/Key-Switches/Keyboard-Layout/k95-rgb-platinum-config-na/p/CH-9127114-NA) by Corsair*
 
 note:
@@ -56,7 +56,7 @@ note:
 
 ## Red Pill And Blue Pill Decision
 
-![RedPillBluePill](/images/red_pill_blue_pill.jpg)
+![RedPillBluePill](images/red_pill_blue_pill.jpg)
 *[Red and blue pill](https://commons.m.wikimedia.org/wiki/File:Red_and_blue_pill.jpg) by W.carter is licensed under [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license*
 
 * <span style="color:blue">Blue Pill</span> - Be satisfied with only knowing everything till this point
@@ -95,7 +95,7 @@ note:
 
 ## What Does Keyboard Firmware Look Like?
 
-![QMKLogo](/images/qmklogo.png)
+![QMKLogo](images/qmklogo.png)
 *Logo owned by [QMK Firmware](https://qmk.fm/)*
 
 1. Full control of your keyboard via a [keymap.c](https://github.com/bpruitt-goddard/qmk_firmware/blob/new-keymap/keyboards/ergodox_ez/keymaps/bpruitt-goddard/keymap.c) file
