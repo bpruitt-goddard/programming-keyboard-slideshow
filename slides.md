@@ -91,6 +91,7 @@ note:
 * QMK - Quantum Mechanical Keyboard
     * Fork of TMK, have since diverged with features
 * TMK - Couldn't find what it stands for
+
 ---
 
 ## What Does Keyboard Firmware Look Like?
