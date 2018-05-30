@@ -50,6 +50,7 @@ GUI or finer control
 note:
 * Mostly let you move keys around. No further customization
 * The control software is on your OS. Changing OSes or using VMs means you lose your configuration
+* This software is starting to appear on those "gamer" keyboards eg from Corsair and Razer
 * Being in a propriatery format means you can't share it or export it
 
 ---
@@ -148,11 +149,20 @@ Super Shift Key
 * Hold -> Normal Shift
 * Press -> `(` or `)` (Left vs Right shift)
 
+note:
+* Use shift key more than only for infrequent shift usages
+* Especially helpful for programmers
+
 --
 
 ## Dynamic Macro
 
 Record a string of characters in any application... and replay them back!
+
+note:
+* Demo this feature to better explain
+* Data is stored on the keyboard so it can be re-used anywhere
+* Data is stored in volatile memory - wiped after board loses power
 
 --
 
