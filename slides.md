@@ -99,7 +99,7 @@ note:
 ![QMKLogo](images/qmklogo.png)
 *Logo owned by [QMK Firmware](https://qmk.fm/)*
 
-1. Full control of your keyboard via a [keymap.c](https://github.com/bpruitt-goddard/qmk_firmware/blob/new-keymap/keyboards/ergodox_ez/keymaps/bpruitt-goddard/keymap.c) file
+1. Full control of your keyboard via a [keymap.c](https://github.com/qmk/qmk_firmware/blob/master/keyboards/ergodox_ez/keymaps/bpruitt-goddard/keymap.c) file
 2. Complied into a hex file
 3. Flashed to keyboard
 
